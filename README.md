@@ -22,7 +22,6 @@ It is built using **TensorFlow/Keras** and showcases different levels of model c
 ✅ Quantization-aware training (QAT)  
 ✅ Size and latency comparisons  
 ✅ Accuracy and loss evaluation
-
 ---
 
 ## 📊 Sample Results (Model Comparison Table)
